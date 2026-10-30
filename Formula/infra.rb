@@ -1,3 +1,4 @@
+# Automatically maintained by the Infra release workflow.
 class Infra < Formula
   desc "Secure infrastructure access CLI"
   homepage "https://github.com/ktsstudio/infra"
